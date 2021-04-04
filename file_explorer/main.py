@@ -12,7 +12,7 @@ import win32api as win
 
 
 main_dir = ""
-print(print("welcome to expy an console based file explorer \n type -h"))
+print("welcome to expy an console based file explorer \n type -h")
 err = 0
 
 
