@@ -1,0 +1,14 @@
+{
+	"alarms": {
+		"Sat": {"time": " ", "day-night": " "},
+		"Sun": {"time": " ", "day-night": " "},
+		"Mon": {"time": " ", "day-night": " "},
+		"Tue": {"time": " ", "day-night": " "},
+		"Wed": {"time": " ", "day-night": " "},
+		"Thu": {"time": " ", "day-night": " "},
+		"Fri": {"time": " ", "day-night": " "} 
+		},
+	
+	"ringtone": "default",
+	"Current location": " "
+}

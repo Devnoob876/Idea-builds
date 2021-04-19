@@ -1,7 +1,9 @@
 import time
 import os
-from playsound import playsound
+#from playsound import playsound
 import json
+import alarm
+import pytz
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 new = f"{BASE_DIR}\\assets\\"
@@ -9,9 +11,10 @@ os.chdir(new)
 
 # oof hard coding stuff
 
+name = "lib.json"
 
 def cl():
-    
+    #The calculator function which iterates the whole app
     print("please enter the problem:")
     while True:
         try:
@@ -21,6 +24,7 @@ def cl():
             elif mat == "his_show":
                 lib = open(new + "lib\\history.tmp","r")
                 p = lib.read()
+                os.system("cls")
                 print(p)
                 lib.close()
             elif mat == "his_cls":
@@ -30,14 +34,19 @@ def cl():
             elif mat == "q":
                 exit()
             else:
+				
                 result = str(eval(mat))
+                os.system("cls")
                 lib = open(new + "lib\\history.tmp","a")
                 lib.write(mat + "=" + result + "\n")
                 lib.close()        
                 print(result)
+                
         except NameError:
+			
             print(" please dont enter words instead of numbers!! ")
             time.sleep(2)
+            os.system("cls")
         except SyntaxError:
             print(" Syntax error ")
             time.sleep(2)
@@ -47,7 +56,25 @@ def cl():
 def clder():
     pass
 def alr():
-    pass
+	path = new + "alarm\\"
+	while True:
+		cmd = input(":>")
+		if cmd == "show_alarm":
+			os.system("cls")
+			alarms = alarm.search_alarms(path)
+			print(alarms)
+						
+		elif cmd == "show_alarm_today":
+			os.system("cls")
+			today = alarm.today_alarm(path)
+			print(today)
+						
+		else:
+			print("sorry  this is a wrong command")
+					
+			exit()
+					
+				
 def wiki():
     pass
 def pass_vault():
@@ -96,8 +123,7 @@ def menu():
 
 
 
-
-
-menu()
+if __name__ == "__main__":
+	menu()
 
 
