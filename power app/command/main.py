@@ -3,7 +3,9 @@ import os
 #from playsound import playsound
 import json
 import alarm
-import pytz
+from threading import Thread
+
+alarmLib = "lib.json"
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 new = f"{BASE_DIR}\\assets\\"
@@ -28,22 +30,21 @@ def cl():
                 print(p)
                 lib.close()
             elif mat == "his_cls":
-                lib = open(new + "lib\\history.tmp","w")
+                lib = open(new + "lib\\history.tmp" , "w")
                 lib.write("")
                 lib.close()
             elif mat == "q":
                 exit()
             else:
-				
+
                 result = str(eval(mat))
                 os.system("cls")
-                lib = open(new + "lib\\history.tmp","a")
+                lib = open(new + "lib\\history.tmp","w")
                 lib.write(mat + "=" + result + "\n")
-                lib.close()        
-                print(result)
-                
+                lib.close()      
+                print(result)           
         except NameError:
-			
+
             print(" please dont enter words instead of numbers!! ")
             time.sleep(2)
             os.system("cls")
@@ -53,10 +54,11 @@ def cl():
 
 
 
+
 def clder():
     pass
 def alr():
-	path = new + "alarm\\"
+	path = new + "alarm\\" + name
 	while True:
 		cmd = input(":>")
 		if cmd == "show_alarm":
@@ -68,6 +70,9 @@ def alr():
 			os.system("cls")
 			today = alarm.today_alarm(path)
 			print(today)
+		elif cmd == "add_alarm":
+			result = alarm.add_alarm(path)
+			print(result)
 						
 		else:
 			print("sorry  this is a wrong command")
@@ -105,6 +110,8 @@ speeches = {
     'alert': "Invalid command!! please type the currect command for the tools"    
         }
 print(speeches.get('intro'))
+
+
 
 
 def menu():

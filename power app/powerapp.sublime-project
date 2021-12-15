@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "D:\\Backup Files\\intermidiate project\\Idea-builds"
+		}
+	],
+	"settings":
+	{
+		"debug.configurations":
+		[
+			{
+				"name": "power_app", 
+				"request": "launch|attach", 
+				"type": "vscode-python"
+			},
+		]
+	}
+}

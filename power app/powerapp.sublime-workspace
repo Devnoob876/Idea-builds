@@ -1,0 +1,537 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w",
+				"w"
+			],
+			[
+				"videos",
+				"videosSearchs"
+			],
+			[
+				"vi",
+				"videosSearchs"
+			],
+			[
+				"goo",
+				"google_uri"
+			],
+			[
+				"s",
+				"search_code_google"
+			],
+			[
+				"exit",
+				"exisiting"
+			],
+			[
+				"expy",
+				"expy_handler"
+			],
+			[
+				"director",
+				"directory_handler"
+			],
+			[
+				"exi",
+				"exist_dir"
+			],
+			[
+				"exis",
+				"exists"
+			],
+			[
+				"dire",
+				"direname"
+			],
+			[
+				"re",
+				"rersult"
+			],
+			[
+				"read",
+				"reading_data"
+			],
+			[
+				"user",
+				"user_dat"
+			],
+			[
+				"jsn",
+				"jsons"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"get",
+				"getWeather"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "command/alarm.py",
+			"settings":
+			{
+				"buffer_size": 1509,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "command/main.py",
+			"settings":
+			{
+				"buffer_size": 3605,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "command/test.py",
+			"settings":
+			{
+				"buffer_size": 273,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Backup Files/intermidiate project/coding problems and solvings/a.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"scheme",
+				"UI: Select Theme"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Enable Debug Mode"
+			],
+			[
+				"bui",
+				"Build With: Python"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"yapf",
+				"PyYapf: Format Document"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"font",
+				"PyYapf: Format Document"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"check",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Install Package Control"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 235.0,
+		"history":
+		[
+			"quit()",
+			"print(\"hello\")",
+			"exit()",
+			"q",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Backup Files/intermidiate project/Idea-builds",
+		"/D/Backup Files/intermidiate project/Idea-builds/power app",
+		"/D/Backup Files/intermidiate project/Idea-builds/power app/command"
+	],
+	"file_history":
+	[
+		"/C/Users/Owner/Downloads/Class-9.pdf",
+		"/D/Backup Files/intermidiate project/Idea-builds/power app/powerapp.sublime-project",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/PyYapf Python Formatter/README.md",
+		"/C/Users/Owner/AppData/Local/Programs/Python/Python37/Lib/site-packages/colorama/__init__.py",
+		"/D/Backup Files/intermidiate project/Idea-builds/exam-picking-app/main.py",
+		"/D/main.py",
+		"/D/Backup Files/mimi's fashion/mimis-fashion.github.io/CNAME",
+		"/G/Backup Files/virtualbox/sdk/install/vboxapisetup.py",
+		"/D/hackapp/setoolkit/setoolkit",
+		"/D/Backup Files/intermidiate project/TWT-jam/features/search.py",
+		"/D/Backup Files/intermidiate project/TWT-jam/features/test.json",
+		"/D/Backup Files/intermidiate project/TWT-jam/TWT-jam/features/fun.py",
+		"/D/Backup Files/intermidiate project/TWT-jam/features/fun.py",
+		"/D/Backup Files/intermidiate project/TWT-jam/TWT-jam/NoobyPro/test.html",
+		"/D/Backup Files/intermidiate project/TWT-jam/TWT-jam/NoobyPro/main.py",
+		"/D/Backup Files/intermidiate project/TWT-jam/TWT-jam/main.py",
+		"/D/Backup Files/intermidiate project/TWT-jam/main.py",
+		"/D/Backup Files/intermidiate project/main.py",
+		"/D/Backup Files/intermidiate project/file_explorer/test.py",
+		"/D/Backup Files/intermidiate project/file_explorer/test",
+		"/D/Backup Files/HiddenEye-Legacy/HiddenEye.py",
+		"/D/cygwin/home/Owner/apps/HiddenEye-Legacy/HiddenEye.py",
+		"/D/cygwin/home/Owner/apps/blackeye/blackeye.sh",
+		"/D/Backup Files/Project-Vault-app/BASE_DIR/service.py",
+		"/D/Backup Files/vaultapp/service.py",
+		"/D/Backup Files/vaultapp/config/config.json",
+		"/D/Backup Files/django_env/src/Orange/Orange/settings.py",
+		"/D/Backup Files/vaultapp/config.json",
+		"/D/Backup Files/vaultapp/db/test.db",
+		"/D/Backup Files/django_env/src/Orange/Orange/asgi.py",
+		"/D/Backup Files/django_env/src/Orange/Orange/wsgi.py",
+		"/D/Backup Files/django_env/src/Orange/Orange/urls.py",
+		"/D/Backup Files/django_env/src/Orange/Orange/__init__.py",
+		"/D/Backup Files/django_env/src/Orange/manage.py",
+		"/D/Backup Files/vaultapp/prop.json",
+		"/D/Backup Files/weather app/main.py",
+		"/D/Backup Files/project notepad editor/main.py",
+		"/D/Backup Files/weather app/env/Lib/site-packages/pip/_internal/network/xmlrpc.py",
+		"/D/Backup Files/project notepad editor/highlighter.py",
+		"/C/Users/Owner/Downloads/highlighter.py",
+		"/D/Backup Files/amon/apt clone/amon/src/home.html",
+		"/D/Backup Files/amon/apt clone/amon/src/main.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 205.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "command/alarm.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1001,
+								1001
+							]
+						],
+						"settings":
+						{
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "command/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2625.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "command/test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Backup Files/intermidiate project/coding problems and solvings/a.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 376.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "powerapp.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 139.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
